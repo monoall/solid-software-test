@@ -33,6 +33,7 @@ class _MainScreenBodyState extends State<MainScreenBody> {
         child: Text(
           'Hey there',
           style: AppTextStyles.mainTextStyle,
+          textAlign: TextAlign.center,
         ),
       ),
     );
